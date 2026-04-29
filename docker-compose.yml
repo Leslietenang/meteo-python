@@ -1,0 +1,4 @@
+services:
+ meteo-python:
+  build: ./meteo-python
+  
